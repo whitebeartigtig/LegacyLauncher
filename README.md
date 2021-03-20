@@ -1,7 +1,7 @@
 # LegacyLauncher
 The old Minecraft Java launcher, with new features.
 
-## Well, where do I get it?
+## Where do I get it?
 You can't yet.
 
 ## What does this launcher have?
